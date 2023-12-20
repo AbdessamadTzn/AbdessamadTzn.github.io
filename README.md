@@ -1,7 +1,20 @@
-## **All In Open Source Africa Program Participant**
-### go to [Skills GitHub Pages](https://abdessamadtzn.github.io/skills-github-pages/)
-# **Future Data Scientist**
-## **Professional experience:**
-###  *Intern at Business Partners* 
-## **Education:**
-###  *Bachelor's degree in software engineering* 
+## **Welcome to my github page** 
+
+### About Me
+Hi, I'm **Abdessamad Touzani**, a 21-year-old from Morocco with a passion for continuous learning and skill development.
+
+### Professional Background
+I identify as a junior back-end developer, currently exploring the field of data science through the IBM Data Science course. Proficient in data cleaning using Pandas and NumPy, I also possess skills in web scraping using Beautiful Soup4 and Scrapy framework.
+
+### Career Goals
+My enthusiasm for learning extends to mastering various programming languages and tools. My goal is to evolve into a full-stack developer and proficient data analyst. 
+
+### My First GitHub Page - All In Open Source Africa Program
+This is my first page created as part of my participation in the All In Open Source Africa Program:
+
+Visit my [Skills GitHub Pages](https://abdessamadtzn.github.io/skills-github-pages/)
+
+
+Follow me on my journey of growth and exploration! 🚀
+
+
