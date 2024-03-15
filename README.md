@@ -1,18 +1,27 @@
-## **Welcome to my github page** 
-
 ### About Me:
 Hi, I'm **Abdessamad Touzani**, a 21-year-old from Morocco with a passion for continuous learning and skill development.
 
-### Professional Background:
-I'm a junior back-end developer python/java, currently exploring the field of data science through the IBM Data Science course. Proficient in data cleaning using Pandas and NumPy, I also possess skills in web scraping using Beautiful Soup4 and Scrapy framework.
+# **Professional Background:**
 
-### Career Goals:
-My enthusiasm for learning extends to mastering various programming languages and tools. My goal is to evolve into a full-stack developer and proficient data analyst. 
+## **💻 Software Engineering Skills:**
 
-### My First GitHub Page - All In Open Source Africa Program:
-This is my first page created as part of my participation in the All In Open Source Africa Program:
+  **Python/Flask, PHP/Laravel, JavaScript/React, Java, Mojo, SQL**
 
-Visit my [Skills GitHub Pages](https://abdessamadtzn.github.io/skills-github-pages/)
+## **📊 Data Science Skills:**
+
+  **Data Analysis:** Pandas, NumPy | Excel
+
+  **Data Visualization:** Matplotlib, Seaborn, Dash, Power BI
+
+  **Machine Learning:** Scikit-learn, Linear Regression, Decision Trees, SVM
+
+  **Web Scraping:** Beautiful Soup
+
+  **Technological Environments:** IBM SPSS
+
+# Career Goals:
+My enthusiasm for learning extends to mastering various programming languages and tools. My goal is to become proficient data scientist. 
+
 
 ### GitHub Trophy Shelf:
 ![](https://github-profile-trophy.vercel.app/?username=AbdessamadTzn&theme=juicyfresh&column=3&margin-w=15&margin-h=15)
