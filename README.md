@@ -1,5 +1,5 @@
 ### About Me:
-Hi, I'm **Abdessamad Touzani**, a 21-year-old from Morocco with a passion for continuous learning and skill development.
+Hi, I'm **Abdessamad Touzani**, from France with a passion for continuous learning and skill development.
 
 # **Professional Background:**
 
