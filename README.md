@@ -5,7 +5,7 @@ Hi, I'm **Abdessamad Touzani**, a 21-year-old from Morocco with a passion for co
 
 ## **💻 Software Engineering Skills:**
 
-  **Python/Flask, PHP/Laravel, JavaScript/React, Java, Mojo, SQL**
+  **Python/Flask, JavaScript, SQL**
 
 ## **📊 Data Science Skills:**
 
